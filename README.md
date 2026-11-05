@@ -1,5 +1,9 @@
 # robosys2026
 
+![test](https://github.com/s25c1037wg-cmd/robosys2026/actions/workflows/test.yml/badge.svg)
+
+
+
 このリポジトリは、ロボットシステム学の授業で利用するリポジトリです。
 
 ## plus
